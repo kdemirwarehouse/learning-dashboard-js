@@ -1,6 +1,6 @@
 # Learning Dashboard
 
-Bu proje; **HTML, CSS ve JavaScript** öğrenmek için hazırlanmış bir öğrenme panelidir.
+Bu proje; **HTML, CSS ve JavaScript** dil tekrari için hazırlanmış bir öğrenme panelidir.
 
 Kullanıcı input alanına öğrenmek istediği konuyu yazar, **Add Topic** butonuna basar ve konu listeye eklenir. Her konunun yanında bulunan **Delete** butonu ile konu listeden silinebilir.
 
