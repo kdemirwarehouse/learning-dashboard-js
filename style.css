@@ -53,6 +53,20 @@ button:hover {
   background-color: #1d4ed8;
 }
 
+#clearBtn{
+  background-color: crimson;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+#clearBtn:hover{
+  background-color: darkred;
+}
+
 ul {
   list-style: none;
   padding: 0;
@@ -69,6 +83,25 @@ li {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.topic-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.topic-left input {
+  flex: 0;
+  width: 18px;
+  height: 18px;
+  padding: 0;
+  cursor: pointer;
+}
+
+.completed span{
+  text-decoration: line-through;
+  color: gray;
 }
 
 .delete-btn {
